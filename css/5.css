@@ -1,0 +1,431 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.a{
+    background: #90000a;
+    height: 142px;
+    width: cover;
+}
+
+.b{
+    width: 400px;
+    height: 78px;
+    padding-top: 30px
+}
+
+
+
+.d{
+    float: right;
+    margin-top: 70px;
+    background-color: #90000a
+}
+
+.e{
+    float: right;
+    margin-top: 70px;
+}
+
+.f{
+
+    height: 40px;
+    background-color: #fff;
+}
+
+.g{
+    width: 1050px;
+    height: 40px;
+    margin: 0 auto;
+}
+
+.h{
+	list-style-type:none;
+}
+
+.box2{
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+}
+
+.box3{
+    color: #353434;
+    font-size: 15px;
+    display: block;
+    padding: 0px 18px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.box1{
+    background: #90000a;
+    position: absolute;
+    top: 40px;
+    width: 180px;
+    padding: 5px 0px;
+    display: none
+}
+
+.box4{
+    float: none;
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    text-align: left;
+    color: #fff;
+}
+
+.box2:hover{
+    background-color: rgb(131, 12, 12);
+}
+
+.box2:hover .box1{
+    display: block;
+}
+
+.box4:hover{
+    background-color: rgb(160, 20, 20);
+}
+
+.i{
+    height: 55px;
+    padding-left: 300px
+}
+
+.j{
+    float: left;
+    line-height: 60px;
+    font-size: 23px;
+    color: #393939;
+    font-family: "microsoft yahei";
+}
+
+.k{
+    padding-top: 44px;
+}
+
+.l{
+    text-align: center;
+}
+
+.m{
+    width: 320px;
+    height: 430px;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 30px;
+    text-align: left;
+}
+
+.n{
+    font-size: 13px
+    
+}
+
+.o{
+    width: 320px;
+    height: 430px;
+    display: inline-block;
+    overflow: hidden;
+    margin-right: 30px;
+    text-align: left;
+}
+
+.p{
+    font-size: 13px
+}
+
+.q{
+    height: auto;
+    display: inline-block;
+    overflow: hidden;
+    text-align: left ;
+    height: 400px;
+    font-size: 15px
+}
+
+.box6:hover{
+    color: rgb(185, 8, 8);
+    text-decoration:underline
+}
+
+.r{
+  text-align: center
+}
+
+.s{
+    width: 250px;
+    margin-right: 40px;
+    display: inline-block;
+    overflow: hidden;
+    text-align: left;
+}
+
+.s:hover{
+    color: rgb(185, 8, 8);
+}
+
+.t{
+    width: 250px;
+    margin-right: 40px;
+    display: inline-block;
+    overflow: hidden;
+    text-align: left;
+}
+
+.t:hover{
+    color: rgb(185, 8, 8);
+}
+
+.u{
+    width: 250px;
+    margin-right: 40px;
+    display: inline-block;
+    overflow: hidden;
+    text-align: left;
+}
+
+.u:hover{
+    color: rgb(185, 8, 8);
+}
+
+.v{
+    width: 250px;
+    margin-right: 40px;
+    display: inline-block;
+    overflow: hidden;
+    text-align: left;
+}
+
+.v:hover{
+    color: rgb(185, 8, 8);  
+}
+
+.w{
+    text-align: center;
+    width: 1300px;
+    margin: 0px auto
+}
+
+.x{
+    color: #535353;
+    font-size: 14px;
+    /* display: inline-block; */
+    text-align: left;
+    float: left;
+    padding: 15px
+}
+
+.box5:hover{
+    color: rgb(185, 8, 8);
+    text-decoration:underline
+}
+
+.y{
+    width: 500px;
+    height: auto;
+    /* margin-top: 35px; */
+    /* display: inline-block; */
+    text-align: left;
+    float: left;
+    padding-left: 130px;
+}
+
+.oo1{
+    background-color: #9b0707;
+    width: 228px;
+    height: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.oo2{
+    background-color: #477666;
+    width: 228px;
+    height: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.oo3{
+    background-color: #825151;
+    width: 228px;
+    height: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.oo4{
+    background-color: #a0ac48;
+    width: 228px;
+    height: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.oo5{
+    background-color: #d5641c;
+    width: 228px;
+    height: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.oo6{
+    background-color: #00014d;
+    width: 228px;
+    height: 48px;
+    margin-bottom: 30px;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+}
+
+.pp1{
+    width: 228px;
+    height: 48px;
+    line-height: 48px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.z{
+    text-align: center
+
+}
+
+.z1{
+    width: 1300px;
+}
+
+.A{
+    height: 275px;
+    background-color: #f3f3f3;
+    display: block;
+    overflow: hidden;
+    width: 1300px;  
+    margin: 0px auto
+}
+
+.B{
+    
+}
+
+.C{
+    width: 100%;
+}
+
+.C1{
+    width: 70%;
+    margin-top: 20px;
+    float: left;
+}
+
+.C2{
+    font-size: 14px;
+    font-family: "SimHei";
+    float: left;
+    width: 165px;
+    text-align: left;
+    line-height: 32px;
+    list-style: none
+}
+
+.C3{
+    
+}
+
+.D{
+    width: 360px;
+    height: 191px;
+    margin: 27px 0 0 20px;
+    float: right;
+}
+
+.D1{
+    margin-right: 38px;
+    text-align: center;
+    float: right;
+}
+
+.D2{
+    border: 0;
+    vertical-align: middle;
+}
+
+.D3{
+    font-size: 22px;
+    margin-top: 15px;
+}
+
+.D4{
+    margin-right: 0px;
+    text-align: center;
+    float: right;
+}
+
+.E{
+    width: 1300px;
+    padding-top: 40px;
+    height: 290px;
+    margin: auto;
+    background-color: #d6d6d6;
+}
+
+.E1{
+    float: left;
+    width: 110px;
+    padding-left: 20px;
+}
+
+.E2{
+    color: #646464;
+    font-size: 16px;
+    font-weight: 700;
+    height: 45px;
+    line-height: 45px;
+    text-align: left;
+    list-style: none;
+}
+
+.E .E1 P{
+    font-size: 12px;
+    font-family: "microsoft yahei";
+    padding-top:20px
+}
+
+.F{
+    background-image: url(../images/第五次作业用/14.jpg);
+    width: cover;
+    height: 168px;
+    margin: 0 auto;
+}
+
+.F1{
+    padding-left: 250px;
+    padding-top: 30px
+}
+
+.F2{ 
+    padding-left: 350px;
+    padding-top: 30px;
+}
+
+.F3{
+    color: #a79c9c;
+    font-size: 13px
+}
